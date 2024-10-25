@@ -1,5 +1,5 @@
 # Emoji Search Website
-
+#Hosted_link :- [(https://jdmalik09.github.io/emoji-search/)]
 ## Overview
 This is a simple website that allows users to search for emojis by description, aliases, or tags. The application displays matching emojis and allows users to copy them to the clipboard.
 
